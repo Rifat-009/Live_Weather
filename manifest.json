@@ -1,0 +1,21 @@
+{
+  "name": "Aura Weather Dashboard Pro",
+  "short_name": "Aura Weather",
+  "description": "Professional live weather dashboard with real-time alerts, AQI, and interactive maps.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#00f0ff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1163/1163624.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1163/1163624.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
