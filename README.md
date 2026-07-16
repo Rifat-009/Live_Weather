@@ -2,7 +2,7 @@
 
 # 🌦️ Live Weather
 
-<img src="assets/banner.png" alt="Live Weather Banner" width="100%">
+<img src="[assets/banner.png](https://www.google.com/imgres?q=live%20weather%20banner&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F42915893%2Ffile%2Fstill-76b4cfbc6a027e9e2c69b15da5ffd1f7.png%3Fresize%3D400x0&imgrefurl=https%3A%2F%2Fdribbble.com%2Fsearch%2Fweather-tablet&docid=WMHoQwkBf6vHKM&tbnid=SdZVrT9p9VnXSM&vet=12ahUKEwiSkci4r9eVAxUIb2wGHSOfOvYQnPAOegQIIhAA..i&w=400&h=300&hcb=2&ved=2ahUKEwiSkci4r9eVAxUIb2wGHSOfOvYQnPAOegQIIhAA)" alt="Live Weather Banner" width="100%">
 
 ### Real-Time Weather Forecast Web Application
 
